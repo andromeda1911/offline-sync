@@ -1,12 +1,17 @@
 {
   "name": "offline-sync",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "Offline Sync is a real-time data synchronization library for offline-first apps. It manages local data storage, conflict resolution, and synchronization with a server.",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "Nikhil Sridhar",
-  "license": "MIT"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andromeda1911/offline-sync.git"
+  },
+  "keywords": ["offline", "sync", "real-time", "synchronization", "javascript"],
+  "author": "Nikhil Sridhar <gemnik94@gmail.com>",
+  "license": "MIT",
+  "dependencies": {}
 }
