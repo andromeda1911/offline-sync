@@ -6,4 +6,4 @@ Offline Sync is a real-time data synchronization library for offline-first apps.
 ## Installation
 Install the package via npm:
 
-npm install offline-sync
+npm install @gemnik94/offline-sync
